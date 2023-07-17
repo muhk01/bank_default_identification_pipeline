@@ -1,2 +1,2 @@
-# bank_default_identification_pipeline
+# bank_defaulter_identification_pipeline
 README.md
