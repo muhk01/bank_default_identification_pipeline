@@ -1,5 +1,5 @@
 # bank_defaulter_identification_pipeline
-Detecting a Bank defaulter using Apache Beam
+Detecting a Bank Loan and Credit card defaulter using Apache Beam
 Credit card skippers/defaulters:
 
 --> Assign 1 point to customer for short payment, where a short payment means when customer fails to clear atleast 70% of its monthly spends.
@@ -26,3 +26,4 @@ Loan defaulters:
 --> Medical Loan defaulters : If customer has made a total of 3 or more late payments.
 
 --> Personal Loan defaulters : If customer has missed a total of 4 or more installments OR missed 2 consecutive installments.
+
